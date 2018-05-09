@@ -1,5 +1,20 @@
 # HoneyWaffleWCSC28
 
+（アップロード作業中）
+
+## エンジン、定跡ファイル、評価関数のセット
+
+https://drive.google.com/file/d/1eczNX5zMiAKwmBg-IMj25Fq2vFYBE0lJ/view?usp=sharing
+
+エンジンと定跡ファイル（user_book2.db）、評価関数のセットです。
+AVX2対応版とSSE42版を同梱しています。
+
+（エンジン設定をここに追記する）
+
+（エンジンそのものの改変部分を追記する）
+
+（評価関数の説明を追記する）
+
 ## 定跡ファイル（やねうら王形式）
 
 https://github.com/32hiko/HoneyWaffleWCSC28/blob/master/user_book2.db
